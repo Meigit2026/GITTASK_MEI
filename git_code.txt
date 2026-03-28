@@ -6,3 +6,4 @@ commit
 
 changes from branch1
 changes from branch3...
+changes from branch2
